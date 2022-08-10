@@ -18,7 +18,7 @@ public class Main {
         List<Book> books = new ArrayList<>();
         BookController bookController = new BookController(books,0);
         while (isEnd == false) {
-            System.out.println("BOOK STORE MANAGE PROGRAM");
+            System.out.println("BOOK STORE MANAGE PROGRAM - 01");
             System.out.println("====================================================");
             System.out.println("1. Create new book to store.");
             System.out.println("2. Print out all books in store");
